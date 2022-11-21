@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-	for true {
+	for {
 		fmt.Println("--------------- Temperature Converter ---------------")
 		fmt.Println("1: C to F")
 		fmt.Println("2: F to C")
